@@ -1,0 +1,8 @@
+int
+string
+double
+JSONB
+int[]
+JSONB[]
+createdAt
+autoincrement ID
